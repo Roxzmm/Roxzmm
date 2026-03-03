@@ -19,15 +19,15 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=Roxzmm&theme=dracula&hide_border=true&cache_seconds=86400" alt="Roxzmm's GitHub Streak" width="49%" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Roxzmm&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Roxzmm's GitHub Trophies" />
-</p>
+</p> -->
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Roxzmm&theme=dracula&radius=10" alt="Roxzmm's Activity Graph" />
 </p>
-<div align="center">
+<!-- <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
+</div> -->
 
 
 ## 🛠️ Languages & Tools
